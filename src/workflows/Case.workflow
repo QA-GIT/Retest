@@ -2,6 +2,7 @@
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
     <alerts>
         <fullName>QA_Alert</fullName>
+        <ccEmails>saikumar.k@autorabit.com</ccEmails>
         <description>QA Alert</description>
         <protected>false</protected>
         <recipients>
