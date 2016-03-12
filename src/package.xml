@@ -403,4 +403,8 @@
         <members>Case.Rule1</members>
         <name>WorkflowRule</name>
     </types>
+    <types>
+        <members>Case.QA_Test</members>
+        <name>WorkflowTask</name>
+    </types>
 </Package>

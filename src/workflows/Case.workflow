@@ -27,4 +27,17 @@
         <description>test</description>
         <triggerType>onCreateOrTriggeringUpdate</triggerType>
     </rules>
+    <tasks>
+        <fullName>QA_Test</fullName>
+        <assignedTo>test.user8@autorabit.com</assignedTo>
+        <assignedToType>user</assignedToType>
+        <description>testing 12th March</description>
+        <dueDateOffset>100</dueDateOffset>
+        <notifyAssignee>false</notifyAssignee>
+        <offsetFromField>User.LastLoginDate</offsetFromField>
+        <priority>High</priority>
+        <protected>false</protected>
+        <status>Not Started</status>
+        <subject>QA</subject>
+    </tasks>
 </Workflow>
