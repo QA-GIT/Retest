@@ -605,4 +605,15 @@
         <showsStatus>true</showsStatus>
         <url>http://www.genwatt.com/genwatt/billing.htm?actname={!Account_Name}</url>
     </webLinks>
+    <fields>
+        <fullName>tester__c</fullName>
+        <description>Custom Field</description>
+        <externalId>false</externalId>
+        <label>tester</label>
+        <length>255</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
 </CustomObject>

@@ -1532,4 +1532,9 @@
         <enabled>true</enabled>
         <name>WorkDotComUserPerm</name>
     </userPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.tester__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 </Profile>

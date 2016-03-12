@@ -1377,4 +1377,9 @@
         <enabled>true</enabled>
         <name>SelectFilesFromSalesforce</name>
     </userPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.tester__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
 </Profile>
